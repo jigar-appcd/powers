@@ -1,7 +1,7 @@
 ---
 name: "stackgen"
-displayName: "Aiden for Infrastructure"
-description: "Build, Operate, Observe, and Remediate with Aiden — Aiden for Infrastructure Kiro power specifically to create appstacks, manage resources, configure environments, and push IaC to Git. Deploy to AWS, Azure, and GCP. Deployment Runners. ServiceNow integration."
+displayName: "Aiden for InfraOps"
+description: "Build, Operate, Observe, and Remediate with Aiden — Aiden for InfraOps Kiro power specifically to create appstacks, manage resources, configure environments, and push IaC to Git. Deploy to AWS, Azure, and GCP. Deployment Runners. ServiceNow integration."
 keywords: ["infrastructure", "iac", "cloud", "terraform", "opentofu", "aws", "azure", "gcp", "devops", "deployment", "stackgen", "appstack", "deploy", "servicenow", "change request", "chg", "aiden", "audit", "compliance"]
 author: "StackGen"
 version: "1.1.0"
