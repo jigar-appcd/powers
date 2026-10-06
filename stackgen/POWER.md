@@ -11,6 +11,8 @@ version: "1.1.0"
 
 StackGen helps you design and manage cloud infrastructure as code. This power provides tools to create appstacks (infrastructure configurations), manage cloud resources, configure environments, and integrate with Git. Deploy apps to AWS, Azure, and GCP via StackGen's governed IaC platform. MCP server bundled.
 
+Getting started for install and first deploy: https://docs.stackgen.com/infraops/kiro
+
 ## Available Tools
 
 ### Appstack Management
